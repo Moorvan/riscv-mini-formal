@@ -1,0 +1,47 @@
+[0m[[0m[0mdebug[0m] [0m[0mFull compilation, no sources in previous analysis.[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll sources are invalidated.[0m
+[0m[[0m[0mdebug[0m] [0m[0mRecompiling all 2 sources: invalidated sources (2) exceeded 50.0% of all sources[0m
+[0m[[0m[0minfo[0m] [0m[0mCompiling 2 Scala sources to C:\Documents\study\chisel-riscv\chisel-project\riscv-mini\lib\target\scala-2.12\classes ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting org.scala-sbt:compiler-bridge_2.12:1.1.1:compile for Scala 2.12.4[0m
+[0m[[0m[0minfo[0m] [0m[0mNon-compiled module 'compiler-bridge_2.12' for Scala 2.12.4. Compiling...[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreating plain compiler interface for 2.12.4.[0m
+[0m[[0m[0mdebug[0m] [0m[0m  > Arguments: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	-nowarn[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-d[0m
+[0m[[0m[0mdebug[0m] [0m[0m	C:\Users\YueChen\AppData\Local\Temp\sbt_76d0c5c2[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-bootclasspath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	C:\Users\YueChen\.sbt\boot\scala-2.12.4\lib\scala-library.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-classpath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	C:\Users\YueChen\AppData\Local\Temp\sbt_f1642ba2\jars\org.scala-sbt\compiler-interface\compiler-interface-1.1.1.jar;C:\Users\YueChen\AppData\Local\Temp\sbt_f1642ba2\jars\org.scala-sbt\util-interface\util-interface-1.1.2.jar;C:\Users\YueChen\AppData\Local\Temp\sbt_f1642ba2\srcs\org.scala-sbt\compiler-bridge_2.12\compiler-bridge_2.12-1.1.1-sources.jar;C:\Users\YueChen\.sbt\boot\scala-2.12.4\lib\scala-compiler.jar;C:\Users\YueChen\.sbt\boot\scala-2.12.4\lib\jline.jar;C:\Users\YueChen\.sbt\boot\scala-2.12.4\lib\scala-reflect.jar;C:\Users\YueChen\.sbt\boot\scala-2.12.4\lib\scala-xml_2.12.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0m	C:\Users\YueChen\AppData\Local\Temp\sbt_b89ec0f1\xsbt\API.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	C:\Users\YueChen\AppData\Local\Temp\sbt_b89ec0f1\xsbt\Analyzer.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	C:\Users\YueChen\AppData\Local\Temp\sbt_b89ec0f1\xsbt\CallbackGlobal.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	C:\Users\YueChen\AppData\Local\Temp\sbt_b89ec0f1\xsbt\ClassName.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	C:\Users\YueChen\AppData\Local\Temp\sbt_b89ec0f1\xsbt\Command.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	C:\Users\YueChen\AppData\Local\Temp\sbt_b89ec0f1\xsbt\Compat.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	C:\Users\YueChen\AppData\Local\Temp\sbt_b89ec0f1\xsbt\CompilerInterface.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	C:\Users\YueChen\AppData\Local\Temp\sbt_b89ec0f1\xsbt\ConsoleInterface.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	C:\Users\YueChen\AppData\Local\Temp\sbt_b89ec0f1\xsbt\DelegatingReporter.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	C:\Users\YueChen\AppData\Local\Temp\sbt_b89ec0f1\xsbt\Dependency.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	C:\Users\YueChen\AppData\Local\Temp\sbt_b89ec0f1\xsbt\ExtractAPI.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	C:\Users\YueChen\AppData\Local\Temp\sbt_b89ec0f1\xsbt\ExtractUsedNames.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	C:\Users\YueChen\AppData\Local\Temp\sbt_b89ec0f1\xsbt\GlobalHelpers.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	C:\Users\YueChen\AppData\Local\Temp\sbt_b89ec0f1\xsbt\InteractiveConsoleFactory.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	C:\Users\YueChen\AppData\Local\Temp\sbt_b89ec0f1\xsbt\InteractiveConsoleHelper.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	C:\Users\YueChen\AppData\Local\Temp\sbt_b89ec0f1\xsbt\InteractiveConsoleInterface.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	C:\Users\YueChen\AppData\Local\Temp\sbt_b89ec0f1\xsbt\InteractiveConsoleResponse.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	C:\Users\YueChen\AppData\Local\Temp\sbt_b89ec0f1\xsbt\JavaUtils.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	C:\Users\YueChen\AppData\Local\Temp\sbt_b89ec0f1\xsbt\LocalToNonLocalClass.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	C:\Users\YueChen\AppData\Local\Temp\sbt_b89ec0f1\xsbt\LocateClassFile.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	C:\Users\YueChen\AppData\Local\Temp\sbt_b89ec0f1\xsbt\Log.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	C:\Users\YueChen\AppData\Local\Temp\sbt_b89ec0f1\xsbt\Message.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	C:\Users\YueChen\AppData\Local\Temp\sbt_b89ec0f1\xsbt\ScaladocInterface.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m      [0m
+[0m[[0m[0minfo[0m] [0m[0m  Compilation completed in 10.353s.[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting org.scala-sbt:compiler-bridge_2.12:1.1.1:compile for Scala 2.12.4[0m
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] Running cached compiler 26535c71 for Scala compiler version 2.12.4[0m
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] The Scala compiler is invoked with:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-bootclasspath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	C:\Users\YueChen\.sbt\boot\scala-2.12.4\lib\scala-library.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-classpath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	C:\Documents\study\chisel-riscv\chisel-project\riscv-mini\lib\target\scala-2.12\classes;C:\Users\YueChen\.ivy2\cache\edu.berkeley.cs\chisel3_2.12\jars\chisel3_2.12-3.1.0.jar;C:\Users\YueChen\.sbt\boot\scala-2.12.4\lib\scala-reflect.jar;C:\Users\YueChen\.ivy2\cache\com.github.scopt\scopt_2.12\jars\scopt_2.12-3.6.0.jar;C:\Users\YueChen\.ivy2\cache\edu.berkeley.cs\firrtl_2.12\jars\firrtl_2.12-1.1.0.jar;C:\Users\YueChen\.ivy2\cache\org.antlr\antlr4\jars\antlr4-4.7.jar;C:\Users\YueChen\.ivy2\cache\org.antlr\antlr4-runtime\jars\antlr4-runtime-4.7.jar;C:\Users\YueChen\.ivy2\cache\org.antlr\antlr-runtime\jars\antlr-runtime-3.5.2.jar;C:\Users\YueChen\.ivy2\cache\org.antlr\ST4\jars\ST4-4.0.8.jar;C:\Users\YueChen\.ivy2\cache\org.abego.treelayout\org.abego.treelayout.core\bundles\org.abego.treelayout.core-1.0.3.jar;C:\Users\YueChen\.ivy2\cache\org.glassfish\javax.json\bundles\javax.json-1.0.4.jar;C:\Users\YueChen\.ivy2\cache\com.ibm.icu\icu4j\jars\icu4j-58.2.jar;C:\Users\YueChen\.ivy2\cache\com.typesafe.scala-logging\scala-logging_2.12\bundles\scala-logging_2.12-3.7.2.jar;C:\Users\YueChen\.ivy2\cache\org.slf4j\slf4j-api\jars\slf4j-api-1.7.25.jar;C:\Users\YueChen\.ivy2\cache\ch.qos.logback\logback-classic\jars\logback-classic-1.2.3.jar;C:\Users\YueChen\.ivy2\cache\ch.qos.logback\logback-core\jars\logback-core-1.2.3.jar;C:\Users\YueChen\.ivy2\cache\net.jcazevedo\moultingyaml_2.12\jars\moultingyaml_2.12-0.4.0.jar;C:\Users\YueChen\.ivy2\cache\com.github.nscala-time\nscala-time_2.12\jars\nscala-time_2.12-2.14.0.jar;C:\Users\YueChen\.ivy2\cache\joda-time\joda-time\jars\joda-time-2.9.4.jar;C:\Users\YueChen\.ivy2\cache\org.joda\joda-convert\jars\joda-convert-1.2.jar;C:\Users\YueChen\.ivy2\cache\org.yaml\snakeyaml\bundles\snakeyaml-1.17.jar;C:\Users\YueChen\.ivy2\cache\org.json4s\json4s-native_2.12\jars\json4s-native_2.12-3.5.3.jar;C:\Users\YueChen\.ivy2\cache\org.json4s\json4s-core_2.12\jars\json4s-core_2.12-3.5.3.jar;C:\Users\YueChen\.ivy2\cache\org.json4s\json4s-ast_2.12\jars\json4s-ast_2.12-3.5.3.jar;C:\Users\YueChen\.ivy2\cache\org.json4s\json4s-scalap_2.12\jars\json4s-scalap_2.12-3.5.3.jar;C:\Users\YueChen\.ivy2\cache\com.thoughtworks.paranamer\paranamer\bundles\paranamer-2.8.jar;C:\Users\YueChen\.ivy2\cache\org.scala-lang.modules\scala-xml_2.12\bundles\scala-xml_2.12-1.0.6.jar;C:\Users\YueChen\.ivy2\cache\org.scalatest\scalatest_2.12\bundles\scalatest_2.12-3.0.1.jar;C:\Users\YueChen\.ivy2\cache\org.scalactic\scalactic_2.12\bundles\scalactic_2.12-3.0.1.jar;C:\Users\YueChen\.ivy2\cache\org.scala-lang.modules\scala-parser-combinators_2.12\bundles\scala-parser-combinators_2.12-1.0.4.jar[0m
